@@ -1,0 +1,37 @@
+.image {
+  background-image: url("board_bread.jpg");
+  background-size: cover;
+  background-position: center;
+  height: 900px;
+}
+
+.description{
+  padding-left:  20px;
+  font-size: 18px;
+}
+
+h1{
+  padding: 20px;
+}
+
+.content {
+  display: block;
+  opacity: 0.75;
+  font-family: 'Playfair Display', serif;
+  font-size: 15px;
+  font-style: italic;
+  font-weight: bold;
+  line-height: 14px;
+  margin-left: 20px;
+  padding: 10px;
+  position: relative;
+  /* top: 5%; */
+  width: 60%;
+  background-color: white ;
+  color:black;
+}
+
+#cook-time{
+  padding: 20px;
+  font-weight: bold;
+}
